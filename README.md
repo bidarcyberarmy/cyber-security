@@ -5,6 +5,6 @@ Bina Darma Cyber Army (BDCA) merupakan sebuah komunitas yang terdapat pada Unver
 ### Kontribusi
 - [Eko Saputra](https://www.github.com/ekovegeance) 
 - [Faiz Hidaya](https://www.github.com/faizH3)
-
+- [Rakha Diyan Firlando](https://www.github.com/bioxxxxx)
 
 ## Dokumentasi TryHackMe
