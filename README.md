@@ -5,7 +5,7 @@ Bina Darma Cyber Army (BDCA) merupakan sebuah komunitas yang terdapat pada Unver
 ### Kontribusi
 
 - [Eko Saputra](https://www.github.com/ekovegeance)
-- [Faiz Hidaya](https://www.github.com/faizH3)
+- [Faiz Hidayat](https://www.github.com/faizH3)
 - [Rakha Diyan Firlando](https://www.github.com/bioxxxxx)
 
 ## KAMUS
@@ -14,5 +14,10 @@ Bina Darma Cyber Army (BDCA) merupakan sebuah komunitas yang terdapat pada Unver
   Pencarian Informasi (Information Gathering) adalah keinginan untuk mengetahui lebih banyak tentang sesuatu, seseorang atau permasalahan. Hal ini meliputi pencarian informasi secara mendalam.
 
   Alat : [Nmap](https://tryhackme.com/room/furthernmap), [METASPLOIT](https://www.offensive-security.com/metasploit-unleashed/information-gathering/), [Dll](https://github.com/dracos-linux/DracOS_VENOMIZER)
+
+- Vulnerability Assessment
+  proses untuk mengidentifikasi, mengevaluasi, dan mengklasifikasikan tingkat keparahan pada kerentanan keamanan yang ada pada sebuah jaringan komputer, sistem, aplikasi, atau bagian lain yang ada di ekosistem IT berdasarkan risiko yang dapat ditimbulkan
+
+  Alat : [Nmap](https://tryhackme.com/room/furthernmap), [Metasploit framework](https://www.offensive-security.com/metasploit-unleashed/), [Dll](https://github.com/dracos-linux/DracOS_VENOMIZER)
 
 ## Dokumentasi TryHackMe
