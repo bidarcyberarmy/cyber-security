@@ -13,4 +13,6 @@ Bina Darma Cyber Army (BDCA) merupakan sebuah komunitas yang terdapat pada Unver
 - Information Gathering
   Pencarian Informasi (Information Gathering) adalah keinginan untuk mengetahui lebih banyak tentang sesuatu, seseorang atau permasalahan. Hal ini meliputi pencarian informasi secara mendalam.
 
+  Alat : [Nmap](https://tryhackme.com/room/furthernmap), [METASPLOIT](https://www.offensive-security.com/metasploit-unleashed/information-gathering/), [Dll](https://github.com/dracos-linux/DracOS_VENOMIZER)
+
 ## Dokumentasi TryHackMe
