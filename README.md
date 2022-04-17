@@ -31,4 +31,6 @@ Bina Darma Cyber Army (BDCA) merupakan sebuah komunitas yang terdapat pada Unver
 
   Alat : [BruteSploit](https://github.com/screetsec/BruteSploit), [Hydra](https://www.kali.org/tools/hydra/),[Johnny](https://www.kali.org/tools/johnny/),[John](https://www.kali.org/tools/john/),[Dll](https://github.com/dracos-linux/DracOS_VENOMIZER)
 
-## Dokumentasi TryHackMe
+## Writeup/ Catatan Hack The Box/ Try Hack Me
+#### [Write up by Eko Saputra](https://writeup.ekovegeance.com/)
+#### [Write up by Faiz Hidayat](https://github.com/faizH3/tryhackme)
